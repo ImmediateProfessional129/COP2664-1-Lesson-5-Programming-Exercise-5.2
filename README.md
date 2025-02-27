@@ -1,5 +1,5 @@
 # COP2664-1-Lesson-5-Programming-Exercise-5.2
-This repository is a submission link for COP264-1: Lesson 5 Programming Exercise 5.2
+This repository is a submission link for COP2664-1: Lesson 5 Programming Exercise 5.2
 
 // This program is designed to check if the number 5 appears in an array from 1 to 10 or more and verify if it is in the array which makes it true or false.
 
